@@ -13,6 +13,9 @@
 * Docker.
 * Redis.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adamA113&repo=github-readme-stats)](https://github.com/adamA113/github-readme-stats)
+
+
 
 <!--
 **adamA113/adamA113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
