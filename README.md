@@ -4,8 +4,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamA113)](https://github.com/anuraghazra/github-readme-stats) -->
 ## 🔭 I’m currently working on:
-* [pinterest-clone] (https://github.com/adamA113/pinterest-clone).
-* [Servize] (https://github.com/adamA113/servize).
+* [pinterest-clone](https://github.com/adamA113/pinterest-clone).
+* [Servize](https://github.com/adamA113/servize).
 
 ## 🌱 I’m currently learning: 
 * Graphql. 
