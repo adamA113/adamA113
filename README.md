@@ -3,7 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamA113&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamA113)](https://github.com/anuraghazra/github-readme-stats) -->
-
+- 🔭 I’m currently working on (pinterest-clone) project https://github.com/adamA113/pinterest-clone
+- 🌱 I’m currently learning: 1-Graphql 2-SQL 3-Docker 4-Redis
 
 
 <!--
