@@ -13,7 +13,7 @@
 * Docker.
 * Redis.
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adamA113&repo=tic-tac-toe)](https://github.com/adamA113/tic-tac-toe) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adamA113&repo=tic-tac-toe)](https://github.com/adamA113/tic-tac-toe)
 
 
 
