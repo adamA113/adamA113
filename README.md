@@ -15,7 +15,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adamA113&repo=tic-tac-toe)](https://github.com/adamA113/tic-tac-toe)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adamA113&repo=Memory-Card-Game)](https://github.com/adamA113/Memory-Card-Game)
 
 <!--
 **adamA113/adamA113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
