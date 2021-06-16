@@ -3,6 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamA113&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamA113&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adamA113&theme=dark)](https://git.io/streak-stats)
 
 ## 🔭 I’m currently working on:
@@ -16,7 +17,6 @@
 * Redis.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adamA113&repo=tic-tac-toe)](https://github.com/adamA113/tic-tac-toe)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adamA113&repo=Memory-Card-Game)](https://github.com/adamA113/Memory-Card-Game)
 
 <!--
