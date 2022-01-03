@@ -1,4 +1,4 @@
-# Hi there I am [Yasir](https://main.d2mczozmjou8dq.amplifyapp.com/) 👋
+# Hi there I am [Yasir](https://yasir-tobbileh.netlify.app/) 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamA113&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
