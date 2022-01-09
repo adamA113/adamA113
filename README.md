@@ -11,10 +11,11 @@
 * [Servize](https://github.com/adamA113/servize).
 
 ## 🌱 I’m currently learning: 
+* Angular and AngularJs.
+* Java.
+* Next.js.
 * Graphql. 
-* SQL.
-* Docker.
-* Redis.
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adamA113&repo=tic-tac-toe)](https://github.com/adamA113/tic-tac-toe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adamA113&repo=Memory-Card-Game)](https://github.com/adamA113/Memory-Card-Game)
