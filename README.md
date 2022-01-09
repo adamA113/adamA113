@@ -1,5 +1,7 @@
 # Hi there I am [Yasir](https://yasir-tobbileh.netlify.app/) 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yasir-tobbileh/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamA113&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamA113&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
